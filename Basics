@@ -5,4 +5,6 @@ SELECT * FROM table_name;
 SELECT column1, column2, ...
 FROM table_name;
 
-#
+#Print Disctinct Values in a Column
+SELECT DISTINCT column1, column2,...
+FROM table_name;
