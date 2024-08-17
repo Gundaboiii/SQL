@@ -1,2 +1,8 @@
 #Print entire table
 SELECT * FROM table_name;
+
+#Print Specific Columns
+SELECT column1, column2, ...
+FROM table_name;
+
+#
